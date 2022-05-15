@@ -20,4 +20,4 @@
 * CSS
 
 **Ссылка на GitHub pages**
-
+* [Ссылка на GitHub pages](https://nika414.github.io/russian-travel/)
