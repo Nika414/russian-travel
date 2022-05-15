@@ -1,0 +1,7 @@
+.place__paragraphs {
+  display: flex;
+  flex-direction: column;
+  grid-area: paragraph;
+  margin: 0;
+  padding: 0;
+}

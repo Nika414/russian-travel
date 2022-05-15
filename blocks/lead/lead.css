@@ -1,0 +1,6 @@
+.lead {
+  background: #2A2C2F;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}

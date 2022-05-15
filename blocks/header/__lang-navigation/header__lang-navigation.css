@@ -1,0 +1,17 @@
+.header__lang-navigation {
+  margin: 46px 48px 0 0;
+  color: #FFFFFF;
+}
+
+
+@media screen and (max-width:768px) {
+  .header__lang-navigation {
+    margin: 46px 24px 0 0;
+  }
+}
+
+@media screen and (max-width:320px) {
+  .header__lang-navigation {
+    margin: 30px 16px 0 0;
+  }
+}
