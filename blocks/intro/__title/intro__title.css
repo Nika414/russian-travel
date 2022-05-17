@@ -9,20 +9,20 @@
   color: #FFFFFF;
 }
 
-@media screen and (max-width:1024px){
+@media screen and (max-width:1024px) {
   .intro__title {
     margin: 92px 48px 0 48px;
   }
 }
 
-@media screen and (max-width:768px){
+@media screen and (max-width:768px) {
   .intro__title {
     margin: 88px 24px 0 24px;
     max-width: 720px;
   }
 }
 
-@media screen and (max-width:320px){
+@media screen and (max-width:320px) {
   .intro__title {
     margin: 64px 16px 0 16px;
     max-width: 288px;

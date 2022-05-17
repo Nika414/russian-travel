@@ -29,9 +29,9 @@
 }
 
 .cover__link::before {
-  position:absolute;
+  position: absolute;
   z-index: -1;
-  content:'';
+  content: '';
   background: #2A2C2F;
   opacity: 0.3;
   width: 100%;

@@ -1,3 +1,4 @@
+@import url(./vendor/normalize.css);
 @import url(./vendor/fonts/inter.css);
 @import url(./blocks/root/root.css);
 
@@ -7,6 +8,7 @@
 @import url(./blocks/header/__logo/header__logo.css);
 @import url(./blocks/header/__lang-navigation/header__lang-navigation.css);
 @import url(./blocks/header/__lang-link/header__lang-link.css);
+@import url(./blocks/header/__lang-link/_active/header__lang-link_active.css);
 
 /*lead*/
 @import url(./blocks/lead/lead.css);
