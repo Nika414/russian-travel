@@ -22,7 +22,9 @@
 * CSS (Адаптивная верстка, Flexbox, Grid layout)
 
 **Ссылка на GitHub pages**
+
 * [Ссылка на GitHub pages](https://nika414.github.io/russian-travel/)
 
 **Планируемые доработки**
+
 * Добавление альтернативной страницы на английском языке
